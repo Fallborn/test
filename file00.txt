@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ddgit pull
+=======
+git pull
+new content --by lxz
+>>>>>>> a3c7f7ea1dcada67e0b8099e9f6fdce114725282
